@@ -31,3 +31,7 @@
     <h2> 📊 GitHub Stats </h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JI1047&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
 </div>
+
+
+# I AM 비모
+ㅎㅇㅎㅇ
